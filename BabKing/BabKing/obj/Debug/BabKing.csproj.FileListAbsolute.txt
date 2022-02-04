@@ -1,0 +1,9 @@
+D:\Project\BabKing\BabKing\BabKing\BabKing\bin\Debug\BabKing.exe.config
+D:\Project\BabKing\BabKing\BabKing\BabKing\bin\Debug\BabKing.exe
+D:\Project\BabKing\BabKing\BabKing\BabKing\bin\Debug\BabKing.pdb
+D:\Project\BabKing\BabKing\BabKing\BabKing\obj\Debug\BabKing.csprojAssemblyReference.cache
+D:\Project\BabKing\BabKing\BabKing\BabKing\obj\Debug\BabKing.Properties.Resources.resources
+D:\Project\BabKing\BabKing\BabKing\BabKing\obj\Debug\BabKing.csproj.GenerateResource.cache
+D:\Project\BabKing\BabKing\BabKing\BabKing\obj\Debug\BabKing.csproj.CoreCompileInputs.cache
+D:\Project\BabKing\BabKing\BabKing\BabKing\obj\Debug\BabKing.exe
+D:\Project\BabKing\BabKing\BabKing\BabKing\obj\Debug\BabKing.pdb
