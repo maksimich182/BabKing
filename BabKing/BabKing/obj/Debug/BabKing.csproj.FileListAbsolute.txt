@@ -7,3 +7,4 @@ D:\Project\BabKing\BabKing\BabKing\BabKing\obj\Debug\BabKing.csproj.GenerateReso
 D:\Project\BabKing\BabKing\BabKing\BabKing\obj\Debug\BabKing.csproj.CoreCompileInputs.cache
 D:\Project\BabKing\BabKing\BabKing\BabKing\obj\Debug\BabKing.exe
 D:\Project\BabKing\BabKing\BabKing\BabKing\obj\Debug\BabKing.pdb
+D:\Project\BabKing\BabKing\BabKing\BabKing\obj\Debug\BabKing.Form1.resources
